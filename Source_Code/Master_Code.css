@@ -5656,8 +5656,8 @@ button.btn.btn-default {
 
 .avatar-large {
   border: 2.5px solid var(--Main-Colour) !important;
-  width: 320px;
-  height: 320px;
+  width: 32px;
+  height: 32px;
   border-radius: 4px !important;
   background-size: cover !important;
   margin-left: 3px !important;
@@ -9930,8 +9930,8 @@ transition: all 200ms;
 }
 
 .avatarUploaderInner-3UNxY3{
-  height: 40px;
-  width: 40px;
+  height: 400px;
+  width: 400px;
   background-color: var(--Secondary-Background-Colour);
 }
 
