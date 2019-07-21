@@ -3381,7 +3381,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt >
 
 .avatar-profile .status {
   width: 600%;
-  height: 10%;
+  height: 100%;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   border: none;
