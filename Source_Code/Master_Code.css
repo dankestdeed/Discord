@@ -3381,7 +3381,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt >
 
 .avatar-profile .status {
   width: 600%;
-  height: 100%;
+  height: 10%;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   border: none;
@@ -5656,8 +5656,8 @@ button.btn.btn-default {
 
 .avatar-large {
   border: 2.5px solid var(--Main-Colour) !important;
-  width: 32px;
-  height: 32px;
+  width: 320px;
+  height: 320px;
   border-radius: 4px !important;
   background-size: cover !important;
   margin-left: 3px !important;
