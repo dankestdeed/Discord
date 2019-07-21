@@ -9930,8 +9930,8 @@ transition: all 200ms;
 }
 
 .avatarUploaderInner-3UNxY3{
-  height: 400px;
-  width: 400px;
+  height: 40px;
+  width: 40px;
   background-color: var(--Secondary-Background-Colour);
 }
 
@@ -10107,8 +10107,8 @@ transition: all 200ms;
 }
 
 .container-1aNBdK,.avatar-3f3jk4{
-  width: 40px!important;
-  height: 40px!important;
+  width: 400px!important;
+  height: 400px!important;
 }
 
 .container-2td-dC:not(#bd-pub-li), .circleIconButton-jET_ig{
