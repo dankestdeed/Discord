@@ -2540,8 +2540,8 @@ div.flex-spacer.flex-vertical form {
   border-radius: 10px!important;
   -ms-flex-negative: 0;
   flex-shrink: 0;
-  width: 200px!important;
-  height: 200px!important;
+  width: 400px!important;
+  height: 400px!important;
   border: none;
 }
 
@@ -3536,8 +3536,8 @@ svg[name="Nova_Download"]{
   border-radius: 10px!important;
   -ms-flex-negative: 0!important;
   flex-shrink: 0!important;
-  width: 200px!important;
-  height: 200px!important;
+  width: 400px!important;
+  height: 400px!important;
   border: none!important;
 }
 
