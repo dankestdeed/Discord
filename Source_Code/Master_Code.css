@@ -40,10 +40,6 @@
                            ``-..____                  ____..-''
                                     ``--...____...--''
 */
-/*@import url('https://nfld99.github.io/Better-Discord/Notifications/Made_By_NFLD99.css');*/
-@import url('https://nfld99.github.io/Better-Discord/Source_Code/FI/FIL.css');
-/*@import url('https://nfld99.github.io/Better-Discord/Source_Code/FI/BL.css');*/
-/*@import url('https://bdsources.tk/sourcecheck/code.css');*/
 @import url('https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css');
 :root {
   --Update-Text: " Update #402 ";
@@ -10107,8 +10103,8 @@ transition: all 200ms;
 }
 
 .container-1aNBdK,.avatar-3f3jk4{
-  width: 400px!important;
-  height: 400px!important;
+  width: 40px!important;
+  height: 40px!important;
 }
 
 .container-2td-dC:not(#bd-pub-li), .circleIconButton-jET_ig{
