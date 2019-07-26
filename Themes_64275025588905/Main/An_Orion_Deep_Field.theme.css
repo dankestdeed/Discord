@@ -7,7 +7,7 @@
  * @website https://nfld99.com/
 */
 /* Source Code */
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Master_Code.css);
+@import url(https://dankestdeed.github.io/Discord/Source_Code/Master_Code.css);
 /* Animations */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Animations/No.css);
 /* Fonts https://nfld99.github.io/Better-Discord/Font_List.txt */
@@ -44,8 +44,8 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://apod.nasa.gov/apod/image/0401/OriondeepfieldM_gendler_full.jpg);
-  --Settings-Background: url(https://apod.nasa.gov/apod/image/0401/OriondeepfieldM_gendler_full.jpg);
+  --Chat-Background: url(https://static1.e926.net/data/8e/a0/8ea0392eb428349f4720b8c3075b2378.png);
+  --Settings-Background: url(https://static1.e926.net/data/8e/a0/8ea0392eb428349f4720b8c3075b2378.png);
   --Callout-Background: url(https://apod.nasa.gov/apod/image/0401/OriondeepfieldM_gendler_full.jpg);
   --Title-Background: var(--Background-Colour);
   --Theme-Variant: " An Orion Deep Field";
@@ -56,9 +56,9 @@
   --Popout-Background: var(--Chat-Background);
   --Popout-Text-Shadow-Colour:var(--Text-Shadow-Colour);
   --Emote-Popout-Background: var(--Secondary-Background-Colour);
-  --load1: "Thank You!";
-  --load2: "Please Enjoy!";
-  --load3: "➢NFLD99";
+  --load1: "";
+  --load2: "";
+  --load3: "";
   --File-Updated-2019-6-19: ;
   --Settings-Dock-Colour: var(--Main-Colour);
   --Timestamp-Colour: var(--Secondary-Main-Colour);
