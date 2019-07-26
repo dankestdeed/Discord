@@ -52,7 +52,7 @@
 }
 
 /* THANKYOU URI FOR HELPING ME UPDATE THIS <3 */
-
+/*
 [layer-id="user-settings"] .userSettingsAccount-2eMFVR~ :last-child:after{
   margin-top: 10px;
   margin-bottom: -3px;
@@ -71,10 +71,10 @@
   z-index: 9997;
   color: var(--Main-Colour);
   width: 50%;
-}
+}*/
 
 /* THANKYOU URI FOR HELPING ME UPDATE THIS <3 */
-
+/*
 body:before {
   content: "Currently On" var(--Update-Text);
   background: var(--Background-Colour);
@@ -89,7 +89,7 @@ body:before {
   top: 0;
   z-index: 9997;
   color: var(--Main-Colour);
-}
+}*/
 
 #app-mount::after{
   color: var(--Main-Colour);
