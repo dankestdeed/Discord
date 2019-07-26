@@ -8747,11 +8747,6 @@ button.btn.btn-default {
   font-size: 15px;
 }
 
-.theme-dark .text-GwUZgS:after {
-  content: " NFLD99.com/Discord";
-  color: var(--Main-Colour);
-  font-size: 15px;
-}
 
 .verified-3uJH7V>g>path:nth-child(2) {
   fill: var(--Secondary-Main-Colour);
@@ -11356,14 +11351,6 @@ html .upperBadge-2XnnGB.count {
   font-size: 0;
 }
 
-.theme-dark .tierNoneText-2OvCv7:after {
-  color: var(--Main-Colour);
-  font-size: 16px;
-  white-space: pre-wrap;
-  text-transform: none;
-  content: "Consider boosting the support server, \a \a \a \a https://nfld99.com/discord"
-}
-
 .theme-dark .tierHeaderLocked-1s2JJz,.theme-dark .tierBody-16Chc9 {
   background-color: var(--Secondary-Background-Colour);
   color: var(--Secondary-Main-Colour);
@@ -12265,10 +12252,6 @@ color: var(--Main-Colour);
 
 .container-1giJp5:hover{
   color: var(--Main-Colour);
-}
-
-#app-mount > div.app-19_DXt.platform-win > div > div.layers-3iHuyZ.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.spacer-1fA9zc > div > div > div.flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.base-3dtUhz > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.spacer-29U_x8.firefoxFixScrollFlex-cnI2ix > div.channels-Ie2l6A.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr > div.container-3baos1 > div.nameTag-3uD-yy > div.size10-tblYdA.subtext-3ECeS_.discriminator-3-Lf_x:after {
-  content: "  NFLD99.com  " !important;
 }
 
 .container-1giJp5{
