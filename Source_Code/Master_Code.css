@@ -75,7 +75,21 @@
 
 /* THANKYOU URI FOR HELPING ME UPDATE THIS <3 */
 
-
+body:before {
+  content: "Currently On" var(--Update-Text);
+  background: var(--Background-Colour);
+  border: 1px solid var(--Main-Colour);
+  left: 50%;
+  border-radius: 5px;
+  padding: 5px 15px;
+  transform: translate(-50%, -100%);
+  animation: Notif 4s , CLog 10s infinite linear;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  z-index: 9997;
+  color: var(--Main-Colour);
+}
 
 #app-mount::after{
   color: var(--Main-Colour);
@@ -274,7 +288,7 @@ body:after {
 }
 
 .native-toolbar .titlebar:after {
-  content: ", " var(--Theme-Variant) ", " var(--Update-Text);
+  content: ", " var(--Theme-Variant) /*", " var(--Update-Text)*/;
   position: absolute;
   left: 5px;
   bottom: 3px;
@@ -3221,7 +3235,7 @@ div.form-inner, .form-actions {
 }
 
 .wordmark-2iDDfm:after {
-  content: ", "  var(--Theme-Variant) ", " var(--Update-Text);
+  content: ", "  var(--Theme-Variant) /*", " var(--Update-Text)*/;
   color: Var(--Main-Colour) !important;
   font-size: 13px;
   font-weight: 700;
@@ -3233,7 +3247,7 @@ div.form-inner, .form-actions {
 }
 
 .typeMacOS-3EmCyP:after {
-  content: var(--Theme-Variant) ", " var(--Update-Text);
+  content: var(--Theme-Variant) /*", " var(--Update-Text)*/;
   color: Var(--Main-Colour) !important;
   font-size: 13px;
   font-weight: 700;
@@ -3266,7 +3280,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.typeWindows-
 }
 
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.typeWindows-1za-n7.titleBar-AC4pGV.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyStart-2NDFzi.alignStretch-DpGPf3 > div.wordmark-2iDDfm:after {
-	content:  ", "  var(--Theme-Variant) ", " var(--Update-Text) !important;
+	content:  ", "  var(--Theme-Variant) /*", " var(--Update-Text)*/ !important;
 	display: inline !important;
 	position: absolute !important;
 	top: unset !important;
@@ -3282,7 +3296,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.typeWindows-
 }
 
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2rEoOp.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr > div.layers-3iHuyZ.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.spacer-1fA9zc > div.layer-3QrUeG + div.layer-3QrUeG > div > div.standardSidebarView-3F1I7i:before {
-	content: "NFLD99.com/" !important;
+	content: "Otter Cock/" !important;
 	display: inline !important;
 	position: absolute !important;
 	left: unset !important;
