@@ -3015,29 +3015,6 @@ div.form-inner, .form-actions {
   background: var(--Background-Colour)!important;
 }
 
-/* Search */
-
-/* .esc-text:after,.keybind-KpFkfr:after {
-  content: "Made By NFLD99";
-  font-size: 15px;
-} */
-/* water marks */
-/*
-.esc-text:after, .keybind-KpFkfr:after {
-  content: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAOCAYAAACfOxrCAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAAABh0RVh0U29mdHdhcmUAcGFpbnQubmV0IDQuMS4zjST9ZwAABHNJREFUSEvNVl2IVkUYHsOItL+LtP8yyqgosDAiomSpMCoDr7SwhDDtIiIqspvwpqCLoosiWIouttz2nJmzrlstrGuuSmmFIHVjXZSp++05M+dz2+wHzNyv531nzpxzvm9iP+2iXniYM+88887MMz/nFSLW2z1kdo+omtTbfJtKe5xvY61PCMqsElF2h5BmjOvSSNGXzuf+7RalD3b0Jyg9gvm8LFR+vWOWNti8AfN4D+N8BRzH9y4RZ6+JrdlFjmGt1ToD/VeAsxWYwDwylKNCZesdA6ZMy0PqHc5rTem/fFucrmafNH21PkHkL0KwFYg343yZiKfO5/7tJs2T9b5tkGYKQqxxbMwpfwxx/wxylQY3X8q8fa0zWfggj6B3Q+hz6gIQZPoEByD7PwhAkOagiCYXiCRdiJhHgpwCdBp6sfikubIyfhhx9mxAAP09js4cntxsAki9F0E2YMHra4j1ktMUYL9I8g3wPYO+dLyLcU7g2N4rBs0yzMnGlKaJ7zvFcGMe/A/B94fl62mhpq5Cn4FK/zHRf+hSMTozH/W3vV+Z7Z0CEGIDZWCzCpD1sS9kpyOA1B86r+D7rMxh36ayRyFuT8nF/RfCbtTmxoXwpa5tWnyULgI3tjzMQZryVCfZSsejGJ+VAkjzm/9W5pAYmTmrixMwJqLmfXjwKtDXMq9bAWKzrhKvFKAXO6vMd76NBTB3+5hS/4BysRg5toAfb2V+tTwIwCfAbHZ1Wts7zKMrFOtXK/6KAMqcQNBPy8bsKZSzCQB19ck2DOD5ndO1AFF6NRZnFzqbAFHzMnAmS5/+BfUpfLvjz5jGWFfCvxY46Xg0LzyQDFwnx20TgCawtlLfj/ouX+/+EUxOSQCyoeaNiPs5ducD5wkLQG+T1C+gXuy2hd2IYiwrAL0Nygzx4qvc6qnuECDJH0agg7aRg2rfFhQAO6DwaFaRmLdOWQCyCEc01o+7muAF0IPsx4IAZPxvx1VI9LAd03wD3isojeNaAciiw2eD8zTav2au1Dvxm3zD8QICKL0c5QN1n0NYgH4xigSHkpwC9HaQVQWQRvNDRb+nKoq/TbuRPzG3oj8ELsZyApAN5efCt5jHpkXG+mLMpVMA2ogtPy/idppb7z7KDR7xMYMCbBqfi/LLuh8IvgFd/gU4caGY2Rc1DJrrbMaYv1lH9j76/OTH4WzP3MULirKb8b0D7ZPgrhHxxBJ8vwtOcd+PQrxLxHhrLsrVaGsAO5FHLAN/Kb4P+LgSGaKv2M7L3eR7QCyOr8W/EeCfkDSwy90kQvpb7OQFvItS7wlyCkijePyB9CZ8/x7kEGhuUboqLABZrD+utf0XAlB/Ogl0HQpL8tswbiPIVXpcJEcuZ94mvBUy3Yi2zrSZ/gRSv848JAyfeFQH6p+4BUembKOHhyzOn6/4nmNfyGR6Owap9A9gUF+DvOH+YFuM9yVBjrDl6BUuYmmUa8QZZXQ/YtHHUW5D+ZIYaZ7nGNZIBMpT6FQofQzzwbUxw5w5sgnxNyB3m34raxnsAAAAAElFTkSuQmCC');
-  animation: CLog 10s infinite linear;
-}
-
-#app-mount > div > div > div.layers-3iHuyZ.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.spacer-1fA9zc > div > div > div.flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.base-3dtUhz > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.spacer-29U_x8.firefoxFixScrollFlex-cnI2ix > div.channels-Ie2l6A.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr > div.container-2Thooq > div.accountDetails-3k9g4n.nameTag-m8r81H > .discriminator-3W31ZY:after {
-  content: "  NFLD99.com  " !important;
-}
-
-#app-mount > div > div > div > div > div > div > div > div > div > div > .discriminator-3W31ZY:after {
-  content: "  NFLD99.com  " !important;
-}*/
-
-/* water marks */
-
 .esc-text:after, .keybind-KpFkfr {
   font-size: 0px;
 }
@@ -3276,26 +3253,6 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt >
 	transform: unset !important;
 	animation: unset !important;
 }
-/*
-html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2rEoOp.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr > div.layers-3iHuyZ.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.spacer-1fA9zc > div.layer-3QrUeG + div.layer-3QrUeG > div > div.standardSidebarView-3F1I7i > div.sidebarRegion-VFTUkN > div.scrollerWrap-2lJEkd.scrollerThemed-2oenus.themeGhostHairline-DBD-2d.scrollerFade-1Ijw5y > div.scroller-2FKFPG.sidebarRegionScroller-3MXcoP > div.sidebar-CFHs9e > div.side-8zPYf6 > span#bd-settings-sidebar:before {
-	content: "NFLD99" !important;
-	font-size: 12px !important; 
-	font-weight: 600 !important; 
-	color: var(--Main-Colour) !important; 
-	display: inline !important;
-	opacity: 1 !important;
-	padding: 0 !important;
-	margin: 0 !important;
-	cursor: pointer !important;
-	visibility: visible !important;
-	position: absolute !important;
-	top: unset !important;
-	left: 115px !important;
-	bottom: 1px !important;
-	right: 0 !important;
-	transform: unset !important;
-	animation: unset !important;
-}*/
 
 .theme-dark .iconForeground-2c7s3m, .theme-dark .title-1aVOXw, .theme-dark [class*='activityFeed-'], .theme-dark .body-2WmNzl, .theme-dark .activity-3tgXuD {
   background: transparent;
@@ -4357,104 +4314,8 @@ button.btn.btn-default {
 .message-group .message .markup-2BOw-j a[href="https://discord.gg/kWRYPrq"], .markup-2BOw-j>a[href="https://discord.gg/kWRYPrq"] {
   font-size: 0;
 }
-/*
-.message-group .message .markup-2BOw-j a[href="https://discord.gg/kWRYPrq"]:after, .markup-2BOw-j>a[href="https://discord.gg/kWRYPrq"]:after {
-  content: "NFLD99s Support Server";
-  color: var(--Main-Colour);
-  font-size: 15px;
-}/*
-
-#app-mount>div:nth-child(5)>div.modal-1UGdnR>div>div>div>div>div>div.inviteTitle-2yNtkC, .keyboard-shortcuts-modal .modal-title {
-  color: var(--Main-Colour);
-}
-
-.create-guild-container.deprecated .action .action-body, .inviteModal-34DdOm .inviteBody-1kVhyx, .inviteModal-34DdOm .inviteCancel-2dlgcH, .keyboard-shortcuts-modal .keyboard-shortcut-list .keybind-group .keybind-description, .keyboard-shortcuts-modal .modal-subtitle, .keybind-shortcut {
-  color: var(--Secondary-Main-Colour);
-}
-
-#app-mount>div:nth-child(5)>div.modal-1UGdnR>div>div>div>div.scroller-wrap.fade>div>div>div>div.keybind-shortcuts>div>span>svg>g {
-  fill: var(--Secondary-Main-Colour);
-}
-
-.create-guild-container.deprecated .create-or-join .actions .or {
-  display: none;
-}
-
-.create-guild-container.deprecated .create-or-join {
-  top: 20%;
-}
-
-.create-guild-container.deprecated {
-  background: var(--Background-Colour);
-}
-
-.create-guild-container.deprecated .create-or-join .form-inner {
-  background: transparent;
-  height: 100%;
-}
-
-#app-mount>div:nth-child(5)>div.modal-1UGdnR>div {
-  background: transparent;
-}
-
-.keybind-shortcut span {
-  -webkit-box-shadow: inset 0 -4px 0 var(--Secondary-Main-Colour);
-  border: 1px solid var(--Secondary-Main-Colour);
-  border-radius: 2px;
-  box-shadow: inset 0 -4px 0 var(--Secondary-Main-Colour);
-}
-
-.keybind-shortcut.dim span {
-  background-color: var(--Background-Colour);
-  color: var(--Secondary-Main-Colour);
-}
-
-.create-guild-container.deprecated .action:hover.join .btn, .keyboard-shortcuts-modal {
-  color: var(--Main-Colour) !important;
-  background-color: Var(--Background-Colour) !important;
-  border: 1px Solid var(--Main-Colour) !important;
-}
-
-.create-guild-container.deprecated .action:not(:hover).join .btn {
-  color: var(--Secondary-Main-Colour) !important;
-  background-color: Var(--Background-Colour-Colour) !important;
-  border: 1px Solid var(--Secondary-Main-Colour) !important;
-}
-
-.create-guild-container.deprecated .create-or-join header {
-  display: none;
-}
-
-.userPopout-4pfA0d, .inner-1JeGVc {
-  border: 1px Solid transparent !important;
-}
-
-.uploadModalIn-1z07Bv .uploadDropModal-2kTwbc .bgScale-1i4Cp3 {
-  background: var(--Background-Colour);
-}
-
-.uploadModalIn-1z07Bv .uploadDropModal-2kTwbc .inner-1-09ZV {
-  border: 2px dashed var(--Main-Colour);
-  color: var(--Main-Colour);
-}
-
-/* ICONS
-.uploadModalIn-1z07Bv .uploadDropModal-2kTwbc .inner-1-09ZV .icon-19bbE_.one-3Z3WUg {
-  background-image: url(/assets/60c3eaf0d7173c929482362ea1d2543a.svg);
-}
-
-.uploadModalIn-1z07Bv .uploadDropModal-2kTwbc .inner-1-09ZV .icon-19bbE_.two-3djYgO {
-  background-image: url(/assets/4ab2ee5027741df387151ca717ae5614.svg);
-}
-
-.uploadModalIn-1z07Bv .uploadDropModal-2kTwbc .inner-1-09ZV .icon-19bbE_.three-jJjLhh {
-  background-image: url(/assets/a4ef7d20760cef4c165825770fd12ac7.svg);
-}
-
-.uploadModalIn-1z07Bv .uploadDropModal-2kTwbc .inner-1-09ZV .instructions-KnejBP {
-  color:  var(--Secondary-Main-Colour);
-}
- ICONS */
+ 
+ /* ICONS */
 
 .inviteModal-34DdOm .scroller {
   background: var(--Background-Colour);
@@ -4804,138 +4665,7 @@ button.btn.btn-default {
 .emojiPicker-3m1S-j .categories-jw8z2h .item-lsWB-j.selected-1LQfcZ {
   border-bottom-color: var(--Secondary-Main-Colour);
 }
-/*
-.markup-2BOw-j a[href="https://www.twitch.tv/NFLD99"] {
-  font-size: 0;
-}
 
-.markup-2BOw-j a[href="https://www.twitch.tv/NFLD99"]:after {
-  content: "NFLD99s Twitch";
-  color: var(--Main-Colour);
-  font-size: 15px;
-}
-
-.markup-2BOw-j a[href="https://github.com/Inve1951/BetterDiscordStuff"] {
-  font-size: 0;
-}
-
-.markup-2BOw-j a[href="https://github.com/Inve1951/BetterDiscordStuff"]:after {
-  content: "Square's repo";
-  color: var(--Main-Colour);
-  font-size: 15px;
-}
-
-.markup-2BOw-j a[href="https://github.com/rauenzi/BetterDiscordAddons"] {
-  font-size: 0;
-}
-
-.markup-2BOw-j a[href="https://github.com/rauenzi/BetterDiscordAddons"]:after {
-  content: "Zerebos' repo";
-  color: var(--Main-Colour);
-  font-size: 15px;
-}
-
-.markup-2BOw-j a[href="https://github.com/NFLD99/Better-Discord"] {
-  font-size: 0;
-}
-
-.markup-2BOw-j a[href="https://github.com/NFLD99/Better-Discord"]:after {
-  content: "NFLD99's repo";
-  color: var(--Main-Colour);
-  font-size: 15px;
-}
-
-.markup-2BOw-j a[href="https://nfld99.com/"] {
-  font-size: 0;
-}
-
-.markup-2BOw-j a[href="https://nfld99.com/"]:after {
-  content: "NFLD99's Website - Home Page";
-  color: var(--Main-Colour);
-  font-size: 15px;
-}*/
-
-/* 
-.markup-2BOw-j a[href="https://nfld99.com/main"] {
-  font-size: 0;
-}
-
-.markup-2BOw-j a[href="https://nfld99.com/main"]:after {
-  content: "NFLD99's Website - Main Themes";
-  color:var(--Main-Colour);
-  font-size: 15px;
-}
-
-.markup-2BOw-j a[href="https://nfld99.com/mini"] {
-  font-size: 0;
-}
-
-.markup-2BOw-j a[href="https://nfld99.com/mini"]:after {
-  content: "NFLD99's Website - Mini Themes";
-  color:var(--Main-Colour);
-  font-size: 15px;
-}
-
-.markup-2BOw-j a[href="https://nfld99.com/requested"] {
-  font-size: 0;
-}
-
-.markup-2BOw-j a[href="https://nfld99.com/requested"]:after {
-  content: "NFLD99's Website - Requested Themes";
-  color:var(--Main-Colour);
-  font-size: 15px;
-}
-
-.markup-2BOw-j a[href="https://nfld99.com/submitted"] {
-  font-size: 0;
-}
-
-.markup-2BOw-j a[href="https://nfld99.com/submitted"]:after {
-  content: "NFLD99's Website - Submited Themes";
-  color:var(--Main-Colour);
-  font-size: 15px;
-}
-
-.markup-2BOw-j a[href="https://nfld99.com/discord"] {
-  font-size: 0;
-}
-
-.markup-2BOw-j a[href="https://nfld99.com/discord"]:after {
-  content: "NFLD99's Website - Discord Invite";
-  color:var(--Main-Colour);
-  font-size: 15px;
-} */
-/*
-.markup-2BOw-j a[href="https://github.com/mwittrien/BetterDiscordAddons"] {
-  font-size: 0;
-}
-
-.markup-2BOw-j a[href="https://github.com/mwittrien/BetterDiscordAddons"]:after {
-  content: "DevilBro's repo";
-  color: var(--Main-Colour);
-  font-size: 15px;
-}
-
-.markup-2BOw-j a[href="https://github.com/DevilsLynAvenged/DevilsLynAvenged"] {
-  font-size: 0;
-}
-
-.markup-2BOw-j a[href="https://github.com/DevilsLynAvenged/DevilsLynAvenged"]:after {
-  content: "DevilsLynAvenged's repo";
-  color: var(--Main-Colour);
-  font-size: 15px;
-}
-
-.markup-2BOw-j a[href="https://github.com/hammy1/BDStuff"] {
-  font-size: 0;
-}
-
-.markup-2BOw-j a[href="https://github.com/hammy1/BDStuff"]:after {
-  content: "Hammy's repo";
-  color: var(--Main-Colour);
-  font-size: 15px;
-}
-*/
 [class*="lookFilled-"]:hover {
   background-color: var(--Secondary-Background-Colour)!important;
   color: var(--Main-Colour)!important;
@@ -6802,13 +6532,6 @@ button.btn.btn-default {
 
 .lookLink-9FtZy-.colorBrand-3pXr91 {
   color: var(--Main-Colour);
-}
-
-.logo-2iEHEq {
-  background: url(https://nfld99.com/Bkg/UI9uFRU.png) 50% 50%/contain;
-  background-repeat: no-repeat;
-  width: 140px;
-  height: 70px;
 }
 
 .theme-dark .alt-3btY0e .helper-2c73HK {
