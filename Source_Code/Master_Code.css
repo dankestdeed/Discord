@@ -288,7 +288,7 @@ body:after {
 }
 
 .native-toolbar .titlebar:after {
-  content: ", " var(--Theme-Variant) /*", " var(--Update-Text)*/;
+  content: ", " var(--Theme-Variant) ", " var(--Update-Text);
   position: absolute;
   left: 5px;
   bottom: 3px;
@@ -3235,7 +3235,7 @@ div.form-inner, .form-actions {
 }
 
 .wordmark-2iDDfm:after {
-  content: ", "  var(--Theme-Variant) /*", " var(--Update-Text)*/;
+  content: ", "  var(--Theme-Variant) ", " var(--Update-Text);
   color: Var(--Main-Colour) !important;
   font-size: 13px;
   font-weight: 700;
@@ -3247,7 +3247,7 @@ div.form-inner, .form-actions {
 }
 
 .typeMacOS-3EmCyP:after {
-  content: var(--Theme-Variant) /*", " var(--Update-Text)*/;
+  content: var(--Theme-Variant) ", " var(--Update-Text);
   color: Var(--Main-Colour) !important;
   font-size: 13px;
   font-weight: 700;
@@ -3280,7 +3280,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.typeWindows-
 }
 
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.typeWindows-1za-n7.titleBar-AC4pGV.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyStart-2NDFzi.alignStretch-DpGPf3 > div.wordmark-2iDDfm:after {
-	content:  ", "  var(--Theme-Variant) /*", " var(--Update-Text)*/ !important;
+	content:  ", "  var(--Theme-Variant) ", " var(--Update-Text) !important;
 	display: inline !important;
 	position: absolute !important;
 	top: unset !important;
