@@ -12224,16 +12224,6 @@ textarea {
   color: var(--Secondary-Main-Colour);
 }
 
-body .ace_closeButton::before {
-  content: "✖";
-  color: var(--Main-Colour);
-}
-
-body .ace_closeButton:hover::before {
-  content: "✖";
-  color: var(--Main-Colour);
-}
-
 .notificationSettings-1NQKPR{
   max-width: 50%;
 }
