@@ -12190,10 +12190,17 @@ textarea {
   mask: none!important;
 }
 
-[mask="url(#svg-mask-avatar-default)"],[mask="url(#svg-mask-avatar-status-round-32)"],[id="1a9ca1ed-c221-4566-b3ec-ab4945ce82dc"],foreignObject[mask*="url(#"]{
-  border-radius: 0!important;
-  -webkit-mask: none!important;
-  mask: none!important;
+.noticeStreamerMode-2TSQpg:not(:hover){
+  height: 5px;
+  overflow: hidden;
+}
+
+.theme-dark .streamerModeEnabledImage-3vynUz{
+  display: none;
+}
+
+.streamerModeEnabledBtn-2ZJ2eq{
+  margin-top: 40vh;
 }
 
 .bda-dark~div #ace_settingsmenu {
@@ -12228,16 +12235,6 @@ textarea {
 
 .bda-dark~div .ace_closeButton::before {
   color: var(--Secondary-Main-Colour);
-}
-
-body .ace_closeButton::before {
-  content: "✖";
-  color: var(--Main-Colour);
-}
-
-body .ace_closeButton:hover::before {
-  content: "✖";
-  color: var(--Main-Colour);
 }
 
 .notificationSettings-1NQKPR{
