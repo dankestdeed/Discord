@@ -1685,64 +1685,6 @@ div.flex-spacer.flex-vertical form {
   display: none;
 }
 
-/* nitro thing */
-
-.avatar-large[style*="a_"]+.comment .message.first .body-3rkFrF .username-wrapper:after {
-  content: url(https://nfld99.com/Bkg/rzf0lV7.png);
-  color: lime;
-  margin-left: 5px;
-  background: transparent;
-  line-height: 16px;
-  text-transform: uppercase;
-  vertical-align: bottom;
-  border-radius: 3px;
-  margin-left: 6px;
-  padding: 1px 2px;
-  font-size: 10px;
-  font-weight: 600;
-  cursor: text;
-}
-
-.member.member-status>.avatar-small[style*="a_"]+.member-inner .member-username:after {
-  content: '✔';
-  color: lime;
-  margin-left: 5px;
-  background: transparent;
-  line-height: 15px;
-  height: 14px;
-  text-transform: uppercase;
-  vertical-align: bottom;
-  border-radius: 3px;
-  margin-left: 6px;
-  padding: 1px 2px;
-  font-size: 10px;
-  font-weight: 600;
-  animation: rainbow 3s infinite linear;
-}
-
-.channel-textarea-autocomplete-inner .avatar-small[style*="a_"]+.discord-tag:after, .channel-textarea-autocomplete-inner .avatar-small[style*="a_"]+.username:after {
-  content: '';
-  position: absolute;
-  background: url(https://canary.discordapp.com/assets/65f0a0df5563e21de7b1aeeafaf31d78.svg);
-  background-size: 20px;
-  width: 20px;
-  height: 15px;
-  margin-left: 5px;
-}
-
-.channel.channel-voice:not(.collapsed) .avatar-small[style*="a_"]+span:after {
-  content: '';
-  position: absolute;
-  background: url(https://canary.discordapp.com/assets/65f0a0df5563e21de7b1aeeafaf31d78.svg);
-  background-size: 20px;
-  width: 20px;
-  height: 15px;
-  margin-top: 1.5px;
-  margin-left: 5px;
-}
-
-/* nitro thing */
-
 .container-PNkimc, .wrapper-2NJDcI, .private-channels .channel.selected a, .private-channels .channel:hover a {
   background: transparent !important;
 }
