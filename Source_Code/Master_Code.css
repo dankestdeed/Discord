@@ -42,12 +42,6 @@
 */
 @import url('https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css');
 :root {
-  --Update-Text: " Welcome Brutta ";
-  --File-Updated-2019-6-19: url(https://nfld99.com/images/RDLTF.png);
-  --Settings-Dock-Colour: var(--Main-Colour);
-  --BetterDocsBlockerWhite: var(--Main-Colour);
-  --BetterDocsBlockerBlack1: var(--Background-Colour);
-  --BetterDocsBlockerBlack2: var(--Secondary-Background-Colour);
   --ServerFolders-Guild-Columns: var(--Guild-Columns);
 }
 
