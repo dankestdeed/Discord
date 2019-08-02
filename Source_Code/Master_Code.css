@@ -1142,69 +1142,6 @@ spinner-pulsing-ellipsis .spinner-item {
   background-color: var(--Main-Colour) !important;
 }
 
-/*User Status*/
-
-/* ONLINE */
-
-.channel.private .status-online {
-  opacity: 1 !important;
-}
-
-.account .status-online {
-  opacity: 1 !important;
-}
-
-/* IDLE */
-
-.channel.private .status-idle {
-  opacity: 1 !important;
-}
-
-.account .status-idle {
-  opacity: 1 !important;
-}
-
-/* Do Not Desterb*/
-
-.channel.private .status-dnd {
-  opacity: 1 !important;
-}
-
-.account .status-dnd {
-  opacity: 1 !important;
-}
-
-/* Offline*/
-
-.channel.private .status-offline, .channel.private .status-invisible {
-  opacity: 1 !important;
-}
-
-.account .status-offline, .account .status-invisible {
-  opacity: 1 !important;
-}
-
-.theme-dark .memberOnline-1CIh-0 {
-  color: var(--Main-Colour) !important;
-}
-
-.theme-dark .memberOffline-2lN7gt {
-  color: var(--Secondary-Main-Colour) !important;
-}
-
-.theme-dark .activity-1IYsbk {
-  color: var(--Secondary-Main-Colour) !important;
-}
-
-.image-33JSyf, .status-oxiHuE {
-  border-radius: 0%;
-}
-
-.theme-dark .member-3W1lQa:hover .content-OzHfo4, .theme-dark .member-3W1lQa.popout-open .content-OzHfo4, .theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 {
-  background: linear-gradient(to right, transparent, var(--Background-Colour), var(--Secondary-Main-Colour));
-  color: var(--Main-Colour) !important;
-}
-
 /* Keyframs */
 
 /* @keyframes DropDown {
