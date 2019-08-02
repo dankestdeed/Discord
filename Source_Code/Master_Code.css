@@ -56,170 +56,6 @@
   color: var(--Main-Colour);
 }
 
-[data-name="AccountDetailsPlus"]:after,
-[data-name="AutoStartRichPresence"]:after,
-[data-name="BetterFormattingRedux"]:after,
-[data-name="BetterFriendCount"]:after,
-[data-name="Channel History"]:after,
-[data-name="Character Counter"]:after,
-[data-name="CreationDate"]:after,
-[data-name="Direct-Download"]:after,
-[data-name="Discord Experiments"]:after,
-[data-name="EditUsers"]:after,
-[data-name="Extended Context Menu"]:after,
-[data-name="GoogleTranslateOption"]:after,
-[data-name="Guild Counter"]:after,
-[data-name="JoinedAtDate"]:after,
-[data-name="MemberCount"]:after,
-[data-name="PinDMs"]:after,
-[data-name="PluginRepo"]:after,
-[data-name="Quoter"]:after,
-[data-name="ReverseImageSearch"]:after,
-[data-name="RoleMembers"]:after,
-[data-name="SendLargeMessages"]:after,
-[data-name="ServerFolders"]:after,
-[data-name="ShowHiddenChannels"]:after,
-[data-name="User Avatar And Server Icon Viewer"]:after {
-  content: " (✔) Plugin has Theme Support (✔) ";
-  color: var(--Main-Colour);
-}
-
-/* Boops */
-
-.large-3ChYtB:not(.popout-2fzvxG)::after {
-  white-space: pre;
-  background-color: var(--Background-Colour) !important;
-  box-shadow: 1px 1px 15px rgba(0, 216, 86, 0.9)!important;
-  padding: 6px 10px;
-  border-radius: 3px;
-  font-size: 13px;
-  z-index: 3000000;
-  display: inline;
-  position: relative;
-  left: 100%;
-  top: 50%;
-  transform: translate(0, -50%);
-  pointer-events: none;
-  transition: 80ms ease;
-  color: var(--Main-Colour);
-  opacity: 0;
-  animation: rainbow 3s infinite linear;
-}
-
-.large-3ChYtB:not(.popout-2fzvxG):hover::after {
-  opacity: 1;
-  transition: 180ms ease-in-out 100ms;
-  animation: boop .5s 1 linear;
-}
-
-.large-3ChYtB:not(.popout-2fzvxG):not(:hover)::after {
-  opacity: 0;
-  transition: 180ms ease-in-out 150ms;
-  animation: boop2 .5s 1 linear;
-}
-
-.large-3ChYtB:not(.popout-2fzvxG) {
-  cursor: pointer;
-}
-
-.large-3ChYtB:not(.popout-2fzvxG)::before {
-  color: rgba(0, 255, 0, .3);
-  font-size: 13px;
-  z-index: 1;
-  position: absolute;
-  left: 38.9%!important;
-  top: 115%;
-  padding-left: 2px;
-  padding-right: 4px;
-  border-radius: 2px;
-  margin-left: -3px;
-  transform: translate(0, 1px);
-  cursor: pointer;
-  transition: 100ms ease;
-  pointer-events: initial;
-  animation: Brainbow 3s infinite linear;
-}
-
-.large-3ChYtB:not(.popout-2fzvxG)::before, .large-3ChYtB:not(.popout-2fzvxG).large-3ChYtB:not(.popout-2fzvxG)::after, .large-3ChYtB:not(.popout-2fzvxG).large-3ChYtB:not(.popout-2fzvxG)::before, .large-3ChYtB:not(.popout-2fzvxG).large-3ChYtB:not(.popout-2fzvxG)::after {
-  display: inline-block!important;
-}
-
-.avatar-17mtNa:hover {
-  opacity: 1;
-}
-
-.large-3ChYtB:not(.popout-2fzvxG), .app, .appMount-3VJmYg, .appMount-3lHmkl {
-  background-visibility: hidden!important;
-}
-
-/* Boops */
-
-/* Boops v2 *NEEDS A DB PLUGIN!* */
-
-.wrapper-3t9DeA::after {
-  white-space: pre;
-  background-color: var(--Background-Colour) !important;
-  box-shadow: 1px 1px 15px rgba(0, 216, 86, 0.9)!important;
-  padding: 6px 10px;
-  border-radius: 3px;
-  font-size: 13px;
-  z-index: 3000000;
-  display: inline;
-  position: relative;
-  left: 100%;
-  top: 50%;
-  transform: translate(0, -50%);
-  pointer-events: none;
-  transition: 80ms ease;
-  color: var(--Main-Colour);
-  opacity: 0;
-  animation: rainbow 3s infinite linear;
-}
-
-.wrapper-3t9DeA:hover::after {
-  opacity: 1;
-  transition: 180ms ease-in-out 100ms;
-  animation: boop .5s 1 linear;
-}
-
-.wrapper-3t9DeA:not(:hover)::after {
-  opacity: 0;
-  transition: 180ms ease-in-out 150ms;
-  animation: boop2 .5s 1 linear;
-}
-
-.wrapper-3t9DeA {
-  cursor: pointer;
-}
-
-.wrapper-3t9DeA::before {
-  color: rgba(0, 255, 0, .3);
-  font-size: 13px;
-  z-index: 1;
-  position: absolute;
-  left: 38.9%!important;
-  top: 115%;
-  padding-left: 2px;
-  padding-right: 4px;
-  border-radius: 2px;
-  margin-left: -3px;
-  transform: translate(0, 1px);
-  cursor: pointer;
-  transition: 100ms ease;
-  pointer-events: initial;
-  animation: Brainbow 3s infinite linear;
-}
-
-.wrapper-3t9DeA::before, .wrapper-3t9DeA.wrapper-3t9DeA::after, .wrapper-3t9DeA.wrapper-3t9DeA::before, .wrapper-3t9DeA.wrapper-3t9DeA::after {
-  display: inline-block!important;
-}
-
-.avatar-17mtNa:hover {
-  opacity: 1;
-}
-
-/* Boops v2 *NEEDS A DB PLUGIN!* */
-
 .wrapper-1Rf91z .scroller-2TZvBN>.guild:first-child {
   margin-top: 10px!important;
 }
@@ -263,12 +99,6 @@ body>div:last-of-type{
   background: transparent !important;
 }
 
-.app {
-  background: var(--Chat-Background) 50% 50%/cover !important;
-  animation: Load4 3s 1 linear, var(--StartUp) 3s 1 linear;
-  font-family: var(--Chat-Font-Used)!important;
-}
-
 .app:not(.popout section) {
   text-shadow: 0 0 6px var(--Text-Shadow-Colour), 0 0 6px var(--Text-Shadow-Colour), 0 0 5px var(--Text-Shadow-Colour), 0 0 4px var(--Text-Shadow-Colour);
 }
@@ -283,17 +113,9 @@ body>div:last-of-type{
   border: 1px solid var(--background-color);
 }
 
-/* .theme-dark .ui-standard-sidebar-view .content-region {
-  background: transparent !important;
-} */
-
 .theme-dark .message-group .mentioned .message-text {
   background: rgba(97, 13, 170, 0.11)!important;
 }
-
-/* .theme-dark .ui-standard-sidebar-view .content-region, .ui-standard-sidebar-view .content-region,  .theme-dark .ui-standard-sidebar-view .sidebar-region,  .ui-standard-sidebar-view .sidebar-region { 
-  background: rgba(0,0,0,0.5) !important
-} */
 
 .theme-dark .ui-standard-sidebar-view .content-region, .ui-standard-sidebar-view .content-region, .theme-dark .ui-standard-sidebar-view .sidebar-region, .ui-standard-sidebar-view .sidebar-region {
   background: rgba(0, 0, 0, var(--Background-Darkness)) !important;
@@ -305,10 +127,6 @@ body>div:last-of-type{
 
 .backdrop-1ocfXc, .backdrop-1wrmKB {
   background: var(--Callout-Background) 50% 50%/cover !important;
-}
-
-.auth-background {
-  background: url(https://nfld99.com/Bkg/DOFpZY5.jpg) 50% 50%/cover !important;
 }
 
 form.deprecated.auth-form {
@@ -514,11 +332,6 @@ form.deprecated.auth-form footer {
   margin-bottom: 5px;
   color: #ffffff;
 }
-
-/*
-::-webkit-input-placeholder {
-  color: rgba(255, 255, 255, 0.6);
-}*/
 
 .chat>.title-wrap {
   box-shadow: none !important;
